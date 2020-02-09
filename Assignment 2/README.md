@@ -19,4 +19,4 @@ Q4 b) Generate the plots for Iris data set. Fix a random seed of 42. Shuffle the
 
 You can answer the subjectve questions (timing analysis, displaying plots) by editing `assignment_q<question-number>_subjective_answers.md`
 
-Doubts about the assignment may be clarified here: https://docs.google.com/document/d/1oA-N4g7fBNLDlD3fHR5fKdaoInqHOB9qc9dZGKLTFII/edit?usp=sharing
+
