@@ -25,17 +25,17 @@ Recall for class 2:  0.75
 ![](bagcomb.png)
 
 
-Q.3.b) 100 points are chosen having integer co-ordinates between 1 to 7 inclusive. 
+Q.3.b) 100 points are chosen having integer co-ordinates between 1 to 8 inclusive with 2 outliers as shown below.
 
-Accuracy:  71.0%
+Accuracy:  96.875%
 
-Precision for class 1:  0.7407407407407407
+Precision for class 1:  0.96
 
-Recall for class 1:  0.7272727272727273
+Recall for class 1:  0.96
 
-Precision for class 2:  0.6739130434782609
+Precision for class 2:  0.9743589743589743
 
-Recall for class 2:  0.6888888888888889
+Recall for class 2:  0.9743589743589743
 
 > The decision boundaries for the 5 estimators are:
 

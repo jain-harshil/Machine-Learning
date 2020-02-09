@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 
 from metrics import *
 
-from tree.randomForestiris import RandomForestClassifier
-from tree.randomForestiris import RandomForestRegressor
+from tree.randomForest import RandomForestClassifier
+from tree.randomForest import RandomForestRegressor
 
 from sklearn.datasets import load_iris
 

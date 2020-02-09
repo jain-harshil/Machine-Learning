@@ -28,8 +28,6 @@ def kfold_cross_validation(dataset,y):
         clf.plot1()
         print("MAE for Fold "+str(i+1)+": ",end = "")
         print(mae(yhat,ygr))
-        print("RMSE for Fold "+str(i+1)+": ",end = "")
-        print(rmse(yhat,ygr))
 
 X = pd.read_excel('realestate.xlsx')
 X = X.drop(['No'],axis = 1)
