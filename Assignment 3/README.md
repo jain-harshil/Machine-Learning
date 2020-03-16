@@ -1,4 +1,5 @@
-# Assignment-3 
+### Questions
+
 1. Solve linear regression via gradient descent for ‘d’ dimensional input and N samples using individual parameter updates
 (theta_i's) in a non-vectorised setting.\
   Method should include: \
